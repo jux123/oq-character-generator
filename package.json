@@ -1,0 +1,26 @@
+{
+  "name": "oq-character-generator",
+  "description": "OpenQuest character generator",
+  "private": true,
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "@angular/common": "4.3.0",
+    "@angular/compiler": "4.3.0",
+    "@angular/core": "4.3.0",
+    "@angular/forms": "4.3.0",
+    "@angular/http": "4.3.0",
+    "@angular/platform-browser": "4.3.0",
+    "@angular/platform-browser-dynamic": "4.3.0",
+    "@angular/router": "^4.3.0",
+    "core-js": "^2.4.0",
+    "rxjs": "5.4.2",
+    "systemjs": "0.19.37",
+    "zone.js": "0.8.14"
+  },
+  "devDependencies": {
+    "live-server": "1.2.0",
+    "typescript": "^2.0.0"
+  }
+}
